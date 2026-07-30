@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Surya Narayana
 
-<!--
-**suryanarayana-23/suryanarayana-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- Python
+- C Programming
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Open Source
+
+🚀 Goal:
+To become a skilled AI Engineer and build impactful real-world projects.
+
+📫 Connect with me:
+LinkedIn: (https://www.linkedin.com/in/surya-narayana-057590426/)
