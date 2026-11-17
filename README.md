@@ -16,4 +16,4 @@
 To become a skilled AI Engineer and build impactful real-world projects.
 
 📫 Connect with me:
-LinkedIn: (https://www.linkedin.com/in/surya-narayana-057590426/)
+LinkedIn: (www.linkedin.com/in/surya-narayana23)
